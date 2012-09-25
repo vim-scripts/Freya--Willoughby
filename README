@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4239
+
+This is an extended and updated version of the original Freya color scheme by Georg Dahn. The original can be found here: http://www.vim.org/scripts/script.php?script_id=1651
+
+This color scheme fully supports HTML, CSS, TagList, CtrlP and NERDTree
+
+This color scheme is for GUI only but will work with 256 color terminals with the CSApprox plugin.
+
+Screenshot: http://i.imgur.com/TbAxm.png
